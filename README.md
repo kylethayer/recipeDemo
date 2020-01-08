@@ -5,3 +5,4 @@ Mix the following together:
 * peppers
 * cilantro
 * oregano
+* basil
