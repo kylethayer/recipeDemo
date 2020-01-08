@@ -4,3 +4,4 @@ Mix the following together:
 * tomatoes
 * peppers
 * cilantro
+* oregano
